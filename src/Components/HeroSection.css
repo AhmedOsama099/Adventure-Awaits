@@ -76,7 +76,7 @@ video {
   }
 }
 
-@media screen and (max-width: 281px) {
+@media screen and (max-width: 547px) {
   .hero-container {
     margin-top: -10px;
   }
