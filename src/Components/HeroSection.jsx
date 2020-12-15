@@ -7,7 +7,7 @@ function HeroSection() {
   return (
     <div className="hero-container">
       <video controls autoPlay loop muted>
-        <source src="./Videos/video-2.mp4" type="video/mp4" />
+        <source src="./Videos/video-1.mp4" type="video/mp4" />
       </video>
 
       <h1>ADVENTURE AWAITS</h1>
